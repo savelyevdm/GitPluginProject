@@ -1,2 +1,2 @@
 # GitPluginProject
-Custon README.
+Custom README.
